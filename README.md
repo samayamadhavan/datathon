@@ -1,1 +1,2 @@
-# datathon
+# WiDS Texas Datathon
+
