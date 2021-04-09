@@ -145,6 +145,7 @@ ul li {
   margin: 0 0 20px;
   text-transform: uppercase;
   text-align: center;
+  font-size: 2em;
 }
 
 /*
@@ -239,7 +240,7 @@ ul li {
 
 @media (min-width: 768px) {
   .section {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .section-title {
@@ -268,7 +269,7 @@ ul li {
 .navbar-custom .navbar-nav > li > a {
   color: #fff;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 22px;
   font-weight: 400;
   border-bottom: 1px solid transparent;
 }
@@ -298,12 +299,12 @@ ul li {
 
 .site-branding {
   float: left;
-  margin-top: 0;
+  margin-top: 0px;
   margin-left: 10px;
 }
 .site-branding .logo {
   color: #fff;
-  font-size: 14px;
+  font-size: 25px;
   font-weight: 700;
   margin-right: 5px;
   letter-spacing: 3px;
@@ -372,7 +373,7 @@ ul li {
   }
 
   .site-branding {
-    margin-top: 6px;
+    margin-top: 0px;
     margin-left: 0;
   }
 }
@@ -384,6 +385,7 @@ ul li {
  */
 .about .section-title {
   margin: 0 0 25px;
+  font-size: 2em;
 }
 .about figure {
   margin-bottom: 25px;
@@ -475,9 +477,9 @@ ul li {
 .partner .partner-box {
   display: block;
   opacity: 0.8;
-  height: 150px;
-  width: 150px;
-  margin: 25px auto;
+  height: 250px;
+  width: 250px;
+  margin: 0px auto;
   -webkit-transition: 0.5s all linear;
           transition: 0.5s all linear;
 }
