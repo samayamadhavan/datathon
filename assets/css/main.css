@@ -728,6 +728,29 @@ ul li {
   transform: rotate(180deg);
 }
 
+.eventBigBubble:before {
+  bottom: 79px;
+  left: 103px;
+  border-top-color: rgba(222, 222, 222, 0.66);
+  border-width: 12px;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.eventBigBubble:after {
+  bottom: 77px;
+  left: 103px;
+  border-top-color: #F6F6F6;
+  border-width: 12px;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
 .eventTime {
   display: flex;
 }
